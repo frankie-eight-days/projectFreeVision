@@ -15,7 +15,10 @@ What this code does is go to various news sources and grab their headlines. Thes
 
 If updated, there are a few things which I would like to do:
 
--Make buzzword identification better
--Make matching algorithm better
--Add VPN support, so Google doesn't ban my IP so much
--After that, add how search results differ from country to country
+- Make buzzword identification better
+
+- Make matching algorithm better
+
+- Add VPN support, so Google doesn't ban my IP so much
+
+- After that, add how search results differ from country to country
