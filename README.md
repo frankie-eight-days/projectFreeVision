@@ -8,6 +8,7 @@ This is a project I started one weekend after an interesting dinner conversation
 **What it is**
 
 What this code does is go to various news sources and grab their headlines. These news sources are categorized by their political affiliation, for example, Fox news is regarded as more of a conservative news source, while Buzzed or CNN may be regarded as a liberal news source. After the script grabs the headlines it scans them for buzzwords and saves them in a database (Actually a Google sheet, how meta is that?). Then the conservative buzzwords are matched with the liberal buzzwords and a Google search is conducted. Finally the search results and search keys are stored in a new sheet on the spreadsheet. The spreadsheet can be seen here (Last updated September 10th)
+
 ---
 
 **Moving Forward**
